@@ -8,4 +8,6 @@ banana
 
 pineapple
 grape
+carlesberg
+heineken
 
